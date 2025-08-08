@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta 1",
+        enunciado: "pergunta deve ser escrita aqui",
         alternativas: [
             {
-                texto: "letra a",
-                afirmacao: "texto gerado se a pessoa escolheu a letra A"
+                texto: "alternativa letra A deve ser escrita aqui",
+                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
             },
             {
-                texto: "letra b",
-                afirmacao: "texto gerado se a pessoa escolheu a letra B"
+                texto: "alternativa letra B deve ser escrita aqui",
+                afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
             }
         ]
     },
