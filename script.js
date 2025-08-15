@@ -6,28 +6,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta deve ser escrita aqui",
+        enunciado: "Ao planejar sua carreira, você prefere:",
         alternativas: [
             {
-                texto: "alternativa letra A deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
+                texto: "Focar em uma área que oferece grande estabilidade financeira."
+                afirmacao: "No inicío de sua jornada você optou pot uma área de trabalho que oferece uma maior estababilidade financeira."
             },
             {
-                texto: "alternativa letra B deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
+                texto: " Escolher uma profissão que te traga satisfação pessoal e realização. ",
+                afirmacao: "Você iniciou sua tragetória trabalhando com a profissão que sempre almejou, sabendo que a felicidade no trabalho é sua maior recompensa."  "
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Para construir um futuro de sucesso e ser uma referência em sua área,você acredita que é melhor se especializar em uma únicaando-se um especialista de ponta, ou desenvolver múltiplas habiliades para se adaptar a diferentes desafios?",
         alternativas: [
-            {
-                texto: "",
-                afirmacao: ""
+            { área, torn
+                texto: "Se especializar em uma única área.",
+                afirmacao: "Deste modo, você decide buscar conhecimento apenas em um ramo de sua área, pois acredita que ter um conhecimento aprofundado te tornará um perito no que faz."
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "Desenvolver múltiplas habiliades.",
+                afirmacao: " Sendo assim, você acredita que desenvolver habilidades distintas é a chave  da versatibilidade para se adaptar a qualquer desafio."
             }
         ]
     },
