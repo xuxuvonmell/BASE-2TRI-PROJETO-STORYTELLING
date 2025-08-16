@@ -32,7 +32,21 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Sua maior fonte de força para o futuro vem de seus próprios resultados, sentindo orgulho do que você construiu e do seu progresso, ou de seus relacionamentos, encontrando apoio e força em quem você ama?
+        ",
+        alternativas: [
+            {
+                texto: "Seus próprios resultados.",
+                afirmacao: "E acredita que a maior fonte de sua força vem de conquistar seus próprios objetivos, e orgulha-se de cada progresso em sua jornada e de sua autonomia."
+            },
+            {
+                texto: "Seus relacionamentos.",
+                afirmacao: "E a sua maior força é encontrada naqueles que ama, pois, acredita que seus desafios são mais leves quando compartilhados."
+            }
+        ]
+    },
+    {
+        enunciado: "Qual a sua visão sobre o seu futuro profissional? Você se imagina sendo um líder em uma grande empresa, tomando decisões estratégicas e liderando equipes, ou sendo um empreendedor autônomo, criando o seu próprio caminho e construindo algo do zero?",
         alternativas: [
             {
                 texto: "",
@@ -45,20 +59,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "",
-        alternativas: [
-            {
-                texto: "",
-                afirmacao: ""
-            },
-            {
-                texto: "",
-                afirmacao: ""
-            }
-        ]
-    },
-    {
-        enunciado: "",
+        enunciado: "Sucesso para você inclui uma rede de contatos profissionais forte, que possa te ajudar a crescer e a ter mais oportunidades de trabalho, ou relacionamentos pessoais profundos, que te dão apoio emocional e felicidade?",
         alternativas: [
             {
                 texto: "",
